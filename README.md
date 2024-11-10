@@ -140,5 +140,12 @@ Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
 
 
-Rapport du stage:
-https://drive.google.com/file/d/1Yyos3R1O3P42BNH5Mgtp7LMdvXcAaFkp/view?usp=sharing
+
+
+## Rapport de stage
+Vous pouvez consulter le [rapport de stage ici](https://drive.google.com/file/d/1Yyos3R1O3P42BNH5Mgtp7LMdvXcAaFkp/view?usp=sharing).
+
+
+
+
+
