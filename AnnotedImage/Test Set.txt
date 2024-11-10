@@ -1,0 +1,13 @@
+Average Results of classe proportion in Test Set:
+Test Set: 11 
+images:['img_LH_35_14_2_20v.jpg', 'img_LH_35_14_2_21r.jpg', 'img_LH_35_14_2_21v.jpg', 'img_LH_35_14_2_22r.jpg', 'img_LH_35_14_2_22v.jpg', 'img_LH_35_14_2_23r.jpg', 'img_LH_35_14_2_66r.jpg', 'img_LH_35_14_2_67v.jpg', 'img_LH_35_5_16_1r.jpg', 'img_LH_35_5_16_1v.jpg', 'img_LH_35_5_16_2r.jpg']
+Test Set Proportions:
+Text Proportion: 75.34%
+Figure Proportion: 2.53%
+Math Proportion: 4.69%
+Math Structure Proportion: 1.21%
+Text Math Proportion: 1.91%
+Math Barree Proportion: 2.95%
+Background Proportion: 11.37%
+Math Total Proportion: 10.76%
+

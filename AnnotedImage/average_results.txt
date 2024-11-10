@@ -1,0 +1,18 @@
+
+Average Results:
+Average Text Proportion: 55.32%
+Average Figure Proportion: 2.85%
+Average Math Proportion: 7.37%
+Average Math Structure Proportion: 2.71%
+Average Text Math Proportion: 2.59%
+Average Math Barree Proportion: 3.72%
+Average Math Total Proportion: 16.39%
+Average Background Proportion: 25.44%
+Average Text Proportion Except Background: 71.44%
+Average Figure Proportion Except Background: 4.58%
+Average Math Proportion Except Background: 10.61%
+Average Math Structure Proportion Except Background: 5.07%
+Average Text Math Proportion Except Background: 3.41%
+Average Math Barree Proportion Except Background: 4.9%
+Average Math Total Proportion Except Background: 23.98%
+

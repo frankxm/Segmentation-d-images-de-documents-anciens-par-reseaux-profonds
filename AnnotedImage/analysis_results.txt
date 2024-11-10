@@ -1,0 +1,986 @@
+Image: img_LH_35_14_2_20r.jpg
+%Text Proportion: 88.18%
+Figure Proportion: 1.08%
+Math Proportion: 1.44%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.33%
+Math Barree Proportion: 0.0%
+Background Proportion: 8.98%
+Math total Proportion: 1.76%
+Text Proportion Except Background: 96.88%
+Figure Proportion Except Background: 1.19%
+Math Proportion Except Background: 1.58%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 0.36%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 1.94%
+
+Image: img_LH_35_14_2_20v.jpg
+%Text Proportion: 68.74%
+Figure Proportion: 2.66%
+Math Proportion: 9.4%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.06%
+Math Barree Proportion: 2.23%
+Background Proportion: 13.9%
+Math total Proportion: 14.7%
+Text Proportion Except Background: 79.84%
+Figure Proportion Except Background: 3.09%
+Math Proportion Except Background: 10.92%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.56%
+Math Barree Proportion Except Background: 2.6%
+Math Total Proportion Except Background: 17.07%
+
+Image: img_LH_35_14_2_21r.jpg
+%Text Proportion: 76.33%
+Figure Proportion: 4.69%
+Math Proportion: 4.57%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 2.3%
+Math Barree Proportion: 4.65%
+Background Proportion: 7.47%
+Math total Proportion: 11.52%
+Text Proportion Except Background: 82.49%
+Figure Proportion Except Background: 5.06%
+Math Proportion Except Background: 4.94%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 2.48%
+Math Barree Proportion Except Background: 5.02%
+Math Total Proportion Except Background: 12.45%
+
+Image: img_LH_35_14_2_21v.jpg
+%Text Proportion: 68.4%
+Figure Proportion: 0.0%
+Math Proportion: 12.17%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.29%
+Math Barree Proportion: 10.86%
+Background Proportion: 8.29%
+Math total Proportion: 23.31%
+Text Proportion Except Background: 74.58%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 13.27%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 0.31%
+Math Barree Proportion Except Background: 11.84%
+Math Total Proportion Except Background: 25.42%
+
+Image: img_LH_35_14_2_22r.jpg
+%Text Proportion: 83.12%
+Figure Proportion: 1.93%
+Math Proportion: 0.22%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.23%
+Math Barree Proportion: 0.36%
+Background Proportion: 11.15%
+Math total Proportion: 3.8%
+Text Proportion Except Background: 93.55%
+Figure Proportion Except Background: 2.17%
+Math Proportion Except Background: 0.24%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.63%
+Math Barree Proportion Except Background: 0.4%
+Math Total Proportion Except Background: 4.28%
+
+Image: img_LH_35_14_2_22v.jpg
+%Text Proportion: 76.92%
+Figure Proportion: 3.0%
+Math Proportion: 4.28%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.06%
+Math Barree Proportion: 6.41%
+Background Proportion: 6.34%
+Math total Proportion: 13.74%
+Text Proportion Except Background: 82.12%
+Figure Proportion Except Background: 3.21%
+Math Proportion Except Background: 4.57%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.26%
+Math Barree Proportion Except Background: 6.84%
+Math Total Proportion Except Background: 14.67%
+
+Image: img_LH_35_14_2_23r.jpg
+%Text Proportion: 82.8%
+Figure Proportion: 4.59%
+Math Proportion: 0.0%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.95%
+Math Barree Proportion: 0.03%
+Background Proportion: 11.63%
+Math total Proportion: 0.98%
+Text Proportion Except Background: 93.7%
+Figure Proportion Except Background: 5.19%
+Math Proportion Except Background: 0.0%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.07%
+Math Barree Proportion Except Background: 0.04%
+Math Total Proportion Except Background: 1.11%
+
+Image: img_LH_35_14_2_23v.jpg
+%Text Proportion: 66.56%
+Figure Proportion: 4.36%
+Math Proportion: 12.03%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 6.32%
+Math Barree Proportion: 4.35%
+Background Proportion: 6.39%
+Math total Proportion: 22.7%
+Text Proportion Except Background: 71.1%
+Figure Proportion Except Background: 4.65%
+Math Proportion Except Background: 12.85%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 6.75%
+Math Barree Proportion Except Background: 4.65%
+Math Total Proportion Except Background: 24.25%
+
+Image: img_LH_35_14_2_66r.jpg
+%Text Proportion: 75.87%
+Figure Proportion: 0.85%
+Math Proportion: 2.82%
+Math Structure Proportion: 1.35%
+Text Math Proportion: 1.76%
+Math Barree Proportion: 1.37%
+Background Proportion: 15.98%
+Math total Proportion: 7.3%
+Text Proportion Except Background: 90.3%
+Figure Proportion Except Background: 1.01%
+Math Proportion Except Background: 3.36%
+Math Structure Proportion Except Background: 1.6%
+Text Math Proportion Except Background: 2.09%
+Math Barree Proportion Except Background: 1.63%
+Math Total Proportion Except Background: 8.69%
+
+Image: img_LH_35_14_2_67v.jpg
+%Text Proportion: 72.33%
+Figure Proportion: 1.13%
+Math Proportion: 5.42%
+Math Structure Proportion: 7.45%
+Text Math Proportion: 0.94%
+Math Barree Proportion: 1.01%
+Background Proportion: 11.72%
+Math total Proportion: 14.83%
+Text Proportion Except Background: 81.93%
+Figure Proportion Except Background: 1.28%
+Math Proportion Except Background: 6.14%
+Math Structure Proportion Except Background: 8.44%
+Text Math Proportion Except Background: 1.07%
+Math Barree Proportion Except Background: 1.15%
+Math Total Proportion Except Background: 16.79%
+
+Image: img_LH_35_5_16_1r.jpg
+%Text Proportion: 73.04%
+Figure Proportion: 0.0%
+Math Proportion: 0.0%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.11%
+Math Barree Proportion: 0.0%
+Background Proportion: 26.85%
+Math total Proportion: 0.11%
+Text Proportion Except Background: 99.85%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 0.0%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 0.15%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 0.15%
+
+Image: img_LH_35_5_16_1v.jpg
+%Text Proportion: 71.84%
+Figure Proportion: 4.6%
+Math Proportion: 7.37%
+Math Structure Proportion: 2.67%
+Text Math Proportion: 0.3%
+Math Barree Proportion: 1.7%
+Background Proportion: 11.54%
+Math total Proportion: 12.03%
+Text Proportion Except Background: 81.2%
+Figure Proportion Except Background: 5.2%
+Math Proportion Except Background: 8.33%
+Math Structure Proportion Except Background: 3.01%
+Text Math Proportion Except Background: 0.34%
+Math Barree Proportion Except Background: 1.92%
+Math Total Proportion Except Background: 13.6%
+
+Image: img_LH_35_5_16_2r.jpg
+%Text Proportion: 79.25%
+Figure Proportion: 6.94%
+Math Proportion: 4.24%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 5.31%
+Math Barree Proportion: 2.18%
+Background Proportion: 2.07%
+Math total Proportion: 11.74%
+Text Proportion Except Background: 80.93%
+Figure Proportion Except Background: 7.09%
+Math Proportion Except Background: 4.33%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 5.43%
+Math Barree Proportion Except Background: 2.23%
+Math Total Proportion Except Background: 11.99%
+
+Image: img_LH_35_5_16_2v.jpg
+%Text Proportion: 70.7%
+Figure Proportion: 0.0%
+Math Proportion: 11.69%
+Math Structure Proportion: 5.12%
+Text Math Proportion: 2.47%
+Math Barree Proportion: 6.54%
+Background Proportion: 3.48%
+Math total Proportion: 25.83%
+Text Proportion Except Background: 73.24%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 12.11%
+Math Structure Proportion Except Background: 5.31%
+Text Math Proportion Except Background: 2.56%
+Math Barree Proportion Except Background: 6.78%
+Math Total Proportion Except Background: 26.76%
+
+Image: img_LH_35_5_16_3r.jpg
+%Text Proportion: 71.86%
+Figure Proportion: 3.69%
+Math Proportion: 9.21%
+Math Structure Proportion: 3.7%
+Text Math Proportion: 1.71%
+Math Barree Proportion: 2.93%
+Background Proportion: 6.91%
+Math total Proportion: 17.54%
+Text Proportion Except Background: 77.19%
+Figure Proportion Except Background: 3.96%
+Math Proportion Except Background: 9.89%
+Math Structure Proportion Except Background: 3.97%
+Text Math Proportion Except Background: 1.84%
+Math Barree Proportion Except Background: 3.14%
+Math Total Proportion Except Background: 18.84%
+
+Image: img_LH_35_5_16_3v.jpg
+%Text Proportion: 66.18%
+Figure Proportion: 1.67%
+Math Proportion: 11.62%
+Math Structure Proportion: 6.08%
+Text Math Proportion: 1.88%
+Math Barree Proportion: 7.76%
+Background Proportion: 4.81%
+Math total Proportion: 27.34%
+Text Proportion Except Background: 69.52%
+Figure Proportion Except Background: 1.76%
+Math Proportion Except Background: 12.21%
+Math Structure Proportion Except Background: 6.39%
+Text Math Proportion Except Background: 1.98%
+Math Barree Proportion Except Background: 8.15%
+Math Total Proportion Except Background: 28.72%
+
+Image: img_LH_35_5_25_1r.jpg
+%Text Proportion: 64.49%
+Figure Proportion: 3.53%
+Math Proportion: 4.13%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 6.57%
+Math Barree Proportion: 3.67%
+Background Proportion: 17.61%
+Math total Proportion: 14.37%
+Text Proportion Except Background: 78.27%
+Figure Proportion Except Background: 4.28%
+Math Proportion Except Background: 5.01%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 7.98%
+Math Barree Proportion Except Background: 4.45%
+Math Total Proportion Except Background: 17.44%
+
+Image: img_LH_35_5_25_1v.jpg
+%Text Proportion: 54.75%
+Figure Proportion: 0.0%
+Math Proportion: 5.18%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 4.06%
+Math Barree Proportion: 1.33%
+Background Proportion: 34.68%
+Math total Proportion: 10.57%
+Text Proportion Except Background: 83.82%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 7.94%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 6.21%
+Math Barree Proportion Except Background: 2.04%
+Math Total Proportion Except Background: 16.18%
+
+Image: img_LH_35_5_25_2r.jpg
+%Text Proportion: 73.58%
+Figure Proportion: 0.0%
+Math Proportion: 7.9%
+Math Structure Proportion: 1.57%
+Text Math Proportion: 1.26%
+Math Barree Proportion: 6.79%
+Background Proportion: 8.91%
+Math total Proportion: 17.52%
+Text Proportion Except Background: 80.77%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 8.67%
+Math Structure Proportion Except Background: 1.72%
+Text Math Proportion Except Background: 1.38%
+Math Barree Proportion Except Background: 7.45%
+Math Total Proportion Except Background: 19.23%
+
+Image: img_LH_35_5_25_2v.jpg
+%Text Proportion: 48.93%
+Figure Proportion: 0.0%
+Math Proportion: 11.17%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.06%
+Math Barree Proportion: 6.53%
+Background Proportion: 30.31%
+Math total Proportion: 20.76%
+Text Proportion Except Background: 70.22%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 16.03%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 4.39%
+Math Barree Proportion Except Background: 9.36%
+Math Total Proportion Except Background: 29.78%
+
+Image: img_LH_35_5_25_3v.jpg
+%Text Proportion: 42.29%
+Figure Proportion: 0.0%
+Math Proportion: 6.58%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.83%
+Math Barree Proportion: 3.29%
+Background Proportion: 47.01%
+Math total Proportion: 10.71%
+Text Proportion Except Background: 79.8%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 12.42%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.57%
+Math Barree Proportion Except Background: 6.21%
+Math Total Proportion Except Background: 20.2%
+
+Image: img_LH_35_5_25_4r.jpg
+%Text Proportion: 74.07%
+Figure Proportion: 0.0%
+Math Proportion: 9.68%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 2.78%
+Math Barree Proportion: 3.29%
+Background Proportion: 10.18%
+Math total Proportion: 15.75%
+Text Proportion Except Background: 82.46%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 10.77%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.1%
+Math Barree Proportion Except Background: 3.66%
+Math Total Proportion Except Background: 17.54%
+
+Image: img_LH_35_5_25_4v.jpg
+%Text Proportion: 82.35%
+Figure Proportion: 0.0%
+Math Proportion: 5.51%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.26%
+Math Barree Proportion: 4.82%
+Background Proportion: 4.07%
+Math total Proportion: 13.59%
+Text Proportion Except Background: 85.84%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 5.74%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.4%
+Math Barree Proportion Except Background: 5.02%
+Math Total Proportion Except Background: 14.16%
+
+Image: img_LH_35_5_25_8r.jpg
+%Text Proportion: 43.64%
+Figure Proportion: 8.02%
+Math Proportion: 8.72%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 5.25%
+Math Barree Proportion: 3.5%
+Background Proportion: 30.88%
+Math total Proportion: 17.46%
+Text Proportion Except Background: 63.13%
+Figure Proportion Except Background: 11.6%
+Math Proportion Except Background: 12.62%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 7.59%
+Math Barree Proportion Except Background: 5.06%
+Math Total Proportion Except Background: 25.26%
+
+Image: img_LH_35_5_25_9v_d.jpg
+%Text Proportion: 47.22%
+Figure Proportion: 8.97%
+Math Proportion: 5.1%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 4.74%
+Math Barree Proportion: 4.02%
+Background Proportion: 29.95%
+Math total Proportion: 13.86%
+Text Proportion Except Background: 67.41%
+Figure Proportion Except Background: 12.8%
+Math Proportion Except Background: 7.28%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 6.76%
+Math Barree Proportion Except Background: 5.75%
+Math Total Proportion Except Background: 19.79%
+
+Image: img_LH_35_5_25_9v_g.jpg
+%Text Proportion: 46.06%
+Figure Proportion: 2.73%
+Math Proportion: 9.86%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 6.63%
+Math Barree Proportion: 4.09%
+Background Proportion: 30.63%
+Math total Proportion: 20.58%
+Text Proportion Except Background: 66.39%
+Figure Proportion Except Background: 3.94%
+Math Proportion Except Background: 14.21%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 9.56%
+Math Barree Proportion Except Background: 5.89%
+Math Total Proportion Except Background: 29.67%
+
+Image: img_LH_35_5_6_10r.jpg
+%Text Proportion: 0.57%
+Figure Proportion: 12.86%
+Math Proportion: 10.86%
+Math Structure Proportion: 9.36%
+Text Math Proportion: 0.35%
+Math Barree Proportion: 3.33%
+Background Proportion: 62.67%
+Math total Proportion: 23.9%
+Text Proportion Except Background: 1.52%
+Figure Proportion Except Background: 34.44%
+Math Proportion Except Background: 29.09%
+Math Structure Proportion Except Background: 25.08%
+Text Math Proportion Except Background: 0.94%
+Math Barree Proportion Except Background: 8.92%
+Math Total Proportion Except Background: 64.03%
+
+Image: img_LH_35_5_6_10v.jpg
+%Text Proportion: 0.0%
+Figure Proportion: 17.73%
+Math Proportion: 7.25%
+Math Structure Proportion: 30.14%
+Text Math Proportion: 0.46%
+Math Barree Proportion: 0.9%
+Background Proportion: 43.52%
+Math total Proportion: 38.75%
+Text Proportion Except Background: 0.0%
+Figure Proportion Except Background: 31.39%
+Math Proportion Except Background: 12.84%
+Math Structure Proportion Except Background: 53.35%
+Text Math Proportion Except Background: 0.82%
+Math Barree Proportion Except Background: 1.6%
+Math Total Proportion Except Background: 68.61%
+
+Image: img_LH_35_5_6_11r.jpg
+%Text Proportion: 11.49%
+Figure Proportion: 0.0%
+Math Proportion: 0.34%
+Math Structure Proportion: 3.8%
+Text Math Proportion: 0.0%
+Math Barree Proportion: 0.0%
+Background Proportion: 84.38%
+Math total Proportion: 4.14%
+Text Proportion Except Background: 73.52%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 2.17%
+Math Structure Proportion Except Background: 24.31%
+Text Math Proportion Except Background: 0.0%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 26.48%
+
+Image: img_LH_35_5_6_11v.jpg
+%Text Proportion: 55.49%
+Figure Proportion: 3.83%
+Math Proportion: 19.55%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 2.2%
+Math Barree Proportion: 1.02%
+Background Proportion: 17.91%
+Math total Proportion: 22.77%
+Text Proportion Except Background: 67.6%
+Figure Proportion Except Background: 4.66%
+Math Proportion Except Background: 23.82%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 2.68%
+Math Barree Proportion Except Background: 1.24%
+Math Total Proportion Except Background: 27.74%
+
+Image: img_LH_35_5_6_12r.jpg
+%Text Proportion: 63.2%
+Figure Proportion: 5.5%
+Math Proportion: 23.35%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 1.74%
+Math Barree Proportion: 3.15%
+Background Proportion: 3.06%
+Math total Proportion: 28.24%
+Text Proportion Except Background: 65.2%
+Figure Proportion Except Background: 5.67%
+Math Proportion Except Background: 24.09%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.79%
+Math Barree Proportion Except Background: 3.25%
+Math Total Proportion Except Background: 29.13%
+
+Image: img_LH_35_5_6_12v.jpg
+%Text Proportion: 20.81%
+Figure Proportion: 0.0%
+Math Proportion: 5.96%
+Math Structure Proportion: 20.48%
+Text Math Proportion: 0.17%
+Math Barree Proportion: 7.57%
+Background Proportion: 45.02%
+Math total Proportion: 34.18%
+Text Proportion Except Background: 37.84%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 10.85%
+Math Structure Proportion Except Background: 37.24%
+Text Math Proportion Except Background: 0.31%
+Math Barree Proportion Except Background: 13.76%
+Math Total Proportion Except Background: 62.16%
+
+Image: img_LH_35_5_6_13r.jpg
+%Text Proportion: 14.66%
+Figure Proportion: 0.41%
+Math Proportion: 0.34%
+Math Structure Proportion: 31.14%
+Text Math Proportion: 0.0%
+Math Barree Proportion: 6.42%
+Background Proportion: 47.03%
+Math total Proportion: 37.9%
+Text Proportion Except Background: 27.67%
+Figure Proportion Except Background: 0.77%
+Math Proportion Except Background: 0.65%
+Math Structure Proportion Except Background: 58.79%
+Text Math Proportion Except Background: 0.0%
+Math Barree Proportion Except Background: 12.11%
+Math Total Proportion Except Background: 71.55%
+
+Image: img_LH_35_5_6_13v.jpg
+%Text Proportion: 49.35%
+Figure Proportion: 0.0%
+Math Proportion: 19.86%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 1.37%
+Math Barree Proportion: 7.49%
+Background Proportion: 21.93%
+Math total Proportion: 28.72%
+Text Proportion Except Background: 63.21%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 25.44%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.76%
+Math Barree Proportion Except Background: 9.6%
+Math Total Proportion Except Background: 36.79%
+
+Image: img_LH_35_5_6_1r.jpg
+%Text Proportion: 62.48%
+Figure Proportion: 6.85%
+Math Proportion: 0.29%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 9.13%
+Math Barree Proportion: 0.17%
+Background Proportion: 21.08%
+Math total Proportion: 9.59%
+Text Proportion Except Background: 79.17%
+Figure Proportion Except Background: 8.68%
+Math Proportion Except Background: 0.36%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 11.57%
+Math Barree Proportion Except Background: 0.21%
+Math Total Proportion Except Background: 12.15%
+
+Image: img_LH_35_5_6_1v.jpg
+%Text Proportion: 66.34%
+Figure Proportion: 0.8%
+Math Proportion: 4.33%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 7.35%
+Math Barree Proportion: 5.0%
+Background Proportion: 16.16%
+Math total Proportion: 16.69%
+Text Proportion Except Background: 79.13%
+Figure Proportion Except Background: 0.96%
+Math Proportion Except Background: 5.17%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 8.77%
+Math Barree Proportion Except Background: 5.97%
+Math Total Proportion Except Background: 19.91%
+
+Image: img_LH_35_5_6_2r.jpg
+%Text Proportion: 64.34%
+Figure Proportion: 1.49%
+Math Proportion: 11.01%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 2.66%
+Math Barree Proportion: 3.08%
+Background Proportion: 17.42%
+Math total Proportion: 16.75%
+Text Proportion Except Background: 77.91%
+Figure Proportion Except Background: 1.8%
+Math Proportion Except Background: 13.33%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.22%
+Math Barree Proportion Except Background: 3.73%
+Math Total Proportion Except Background: 20.28%
+
+Image: img_LH_35_5_6_2v.jpg
+%Text Proportion: 13.47%
+Figure Proportion: 1.85%
+Math Proportion: 2.84%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.11%
+Math Barree Proportion: 0.33%
+Background Proportion: 81.4%
+Math total Proportion: 3.28%
+Text Proportion Except Background: 72.4%
+Figure Proportion Except Background: 9.96%
+Math Proportion Except Background: 15.25%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 0.61%
+Math Barree Proportion Except Background: 1.79%
+Math Total Proportion Except Background: 17.64%
+
+Image: img_LH_35_5_8_2r.jpg
+%Text Proportion: 3.02%
+Figure Proportion: 12.37%
+Math Proportion: 16.75%
+Math Structure Proportion: 15.01%
+Text Math Proportion: 0.78%
+Math Barree Proportion: 0.0%
+Background Proportion: 52.08%
+Math total Proportion: 32.54%
+Text Proportion Except Background: 6.3%
+Figure Proportion Except Background: 25.81%
+Math Proportion Except Background: 34.95%
+Math Structure Proportion Except Background: 31.32%
+Text Math Proportion Except Background: 1.63%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 67.89%
+
+Image: img_LH_35_5_8_2v.jpg
+%Text Proportion: 5.63%
+Figure Proportion: 2.97%
+Math Proportion: 5.24%
+Math Structure Proportion: 1.17%
+Text Math Proportion: 0.24%
+Math Barree Proportion: 0.0%
+Background Proportion: 84.75%
+Math total Proportion: 6.65%
+Text Proportion Except Background: 36.91%
+Figure Proportion Except Background: 19.5%
+Math Proportion Except Background: 34.39%
+Math Structure Proportion Except Background: 7.64%
+Text Math Proportion Except Background: 1.56%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 43.59%
+
+Image: img_LH_35_5_8_3r.jpg
+%Text Proportion: 65.45%
+Figure Proportion: 2.82%
+Math Proportion: 19.03%
+Math Structure Proportion: 1.43%
+Text Math Proportion: 1.43%
+Math Barree Proportion: 4.11%
+Background Proportion: 5.73%
+Math total Proportion: 26.0%
+Text Proportion Except Background: 69.43%
+Figure Proportion Except Background: 3.0%
+Math Proportion Except Background: 20.19%
+Math Structure Proportion Except Background: 1.52%
+Text Math Proportion Except Background: 1.51%
+Math Barree Proportion Except Background: 4.36%
+Math Total Proportion Except Background: 27.58%
+
+Image: img_LH_35_5_8_3v.jpg
+%Text Proportion: 56.76%
+Figure Proportion: 4.15%
+Math Proportion: 1.95%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.34%
+Math Barree Proportion: 0.24%
+Background Proportion: 33.57%
+Math total Proportion: 5.52%
+Text Proportion Except Background: 85.44%
+Figure Proportion Except Background: 6.24%
+Math Proportion Except Background: 2.93%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 5.03%
+Math Barree Proportion Except Background: 0.36%
+Math Total Proportion Except Background: 8.31%
+
+Image: img_LH_35_5_9_1r.jpg
+%Text Proportion: 66.22%
+Figure Proportion: 1.69%
+Math Proportion: 11.58%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.35%
+Math Barree Proportion: 3.71%
+Background Proportion: 13.46%
+Math total Proportion: 18.63%
+Text Proportion Except Background: 76.51%
+Figure Proportion Except Background: 1.96%
+Math Proportion Except Background: 13.38%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.87%
+Math Barree Proportion Except Background: 4.29%
+Math Total Proportion Except Background: 21.53%
+
+Image: img_LH_35_5_9_1v.jpg
+%Text Proportion: 59.29%
+Figure Proportion: 1.67%
+Math Proportion: 8.53%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 3.25%
+Math Barree Proportion: 6.93%
+Background Proportion: 20.33%
+Math total Proportion: 18.71%
+Text Proportion Except Background: 74.41%
+Figure Proportion Except Background: 2.1%
+Math Proportion Except Background: 10.71%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 4.08%
+Math Barree Proportion Except Background: 8.69%
+Math Total Proportion Except Background: 23.49%
+
+Image: img_LH_35_5_9_2r.jpg
+%Text Proportion: 62.84%
+Figure Proportion: 0.0%
+Math Proportion: 19.72%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 1.99%
+Math Barree Proportion: 2.65%
+Background Proportion: 12.79%
+Math total Proportion: 24.37%
+Text Proportion Except Background: 72.05%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 22.62%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 2.29%
+Math Barree Proportion Except Background: 3.04%
+Math Total Proportion Except Background: 27.95%
+
+Image: img_LH_35_5_9_2v.jpg
+%Text Proportion: 21.36%
+Figure Proportion: 0.76%
+Math Proportion: 6.64%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.68%
+Math Barree Proportion: 5.37%
+Background Proportion: 65.19%
+Math total Proportion: 12.69%
+Text Proportion Except Background: 61.36%
+Figure Proportion Except Background: 2.17%
+Math Proportion Except Background: 19.08%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.96%
+Math Barree Proportion Except Background: 15.43%
+Math Total Proportion Except Background: 36.47%
+
+Image: img_LH_35_7_19_3r.jpg
+%Text Proportion: 80.67%
+Figure Proportion: 0.0%
+Math Proportion: 0.0%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.07%
+Math Barree Proportion: 0.0%
+Background Proportion: 19.25%
+Math total Proportion: 0.07%
+Text Proportion Except Background: 99.91%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 0.0%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 0.09%
+Math Barree Proportion Except Background: 0.0%
+Math Total Proportion Except Background: 0.09%
+
+Image: img_LH_35_7_19_3v.jpg
+%Text Proportion: 71.55%
+Figure Proportion: 2.98%
+Math Proportion: 0.0%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 1.08%
+Math Barree Proportion: 0.31%
+Background Proportion: 24.08%
+Math total Proportion: 1.39%
+Text Proportion Except Background: 94.25%
+Figure Proportion Except Background: 3.92%
+Math Proportion Except Background: 0.0%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 1.42%
+Math Barree Proportion Except Background: 0.41%
+Math Total Proportion Except Background: 1.83%
+
+Image: img_LH_35_7_19_4r.jpg
+%Text Proportion: 67.77%
+Figure Proportion: 0.0%
+Math Proportion: 5.33%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 4.79%
+Math Barree Proportion: 5.83%
+Background Proportion: 16.28%
+Math total Proportion: 15.95%
+Text Proportion Except Background: 80.95%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 6.36%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 5.73%
+Math Barree Proportion Except Background: 6.96%
+Math Total Proportion Except Background: 19.05%
+
+Image: img_LH_35_7_19_4v.jpg
+%Text Proportion: 64.62%
+Figure Proportion: 5.28%
+Math Proportion: 7.68%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 6.2%
+Math Barree Proportion: 11.09%
+Background Proportion: 5.14%
+Math total Proportion: 24.96%
+Text Proportion Except Background: 68.12%
+Figure Proportion Except Background: 5.56%
+Math Proportion Except Background: 8.1%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 6.53%
+Math Barree Proportion Except Background: 11.69%
+Math Total Proportion Except Background: 26.32%
+
+Image: img_LH_35_7_19_5r.jpg
+%Text Proportion: 61.32%
+Figure Proportion: 0.0%
+Math Proportion: 11.88%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 1.73%
+Math Barree Proportion: 8.9%
+Background Proportion: 16.17%
+Math total Proportion: 22.51%
+Text Proportion Except Background: 73.15%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 14.17%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 2.06%
+Math Barree Proportion Except Background: 10.62%
+Math Total Proportion Except Background: 26.85%
+
+Image: img_LH_35_7_19_5v.jpg
+%Text Proportion: 57.99%
+Figure Proportion: 0.0%
+Math Proportion: 2.86%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 8.51%
+Math Barree Proportion: 3.93%
+Background Proportion: 26.72%
+Math total Proportion: 15.3%
+Text Proportion Except Background: 79.13%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 3.9%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 11.61%
+Math Barree Proportion Except Background: 5.36%
+Math Total Proportion Except Background: 20.87%
+
+Image: img_LH_35_7_19_6r.jpg
+%Text Proportion: 56.37%
+Figure Proportion: 4.82%
+Math Proportion: 4.63%
+Math Structure Proportion: 1.99%
+Text Math Proportion: 4.27%
+Math Barree Proportion: 10.92%
+Background Proportion: 17.0%
+Math total Proportion: 21.81%
+Text Proportion Except Background: 67.91%
+Figure Proportion Except Background: 5.81%
+Math Proportion Except Background: 5.58%
+Math Structure Proportion Except Background: 2.4%
+Text Math Proportion Except Background: 5.15%
+Math Barree Proportion Except Background: 13.16%
+Math Total Proportion Except Background: 26.28%
+
+Image: img_LH_35_7_19_6v.jpg
+%Text Proportion: 6.95%
+Figure Proportion: 0.0%
+Math Proportion: 1.04%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 0.62%
+Math Barree Proportion: 0.07%
+Background Proportion: 91.32%
+Math total Proportion: 1.74%
+Text Proportion Except Background: 80.01%
+Figure Proportion Except Background: 0.0%
+Math Proportion Except Background: 11.97%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 7.19%
+Math Barree Proportion Except Background: 0.83%
+Math Total Proportion Except Background: 19.99%
+
+Image: img_LH_35_8_1_2v.jpg
+%Text Proportion: 38.17%
+Figure Proportion: 2.5%
+Math Proportion: 4.86%
+Math Structure Proportion: 10.69%
+Text Math Proportion: 3.91%
+Math Barree Proportion: 1.38%
+Background Proportion: 38.48%
+Math total Proportion: 20.84%
+Text Proportion Except Background: 62.05%
+Figure Proportion Except Background: 4.07%
+Math Proportion Except Background: 7.9%
+Math Structure Proportion Except Background: 17.38%
+Text Math Proportion Except Background: 6.35%
+Math Barree Proportion Except Background: 2.24%
+Math Total Proportion Except Background: 33.88%
+
+Image: img_LH_35_8_1_4r.jpg
+%Text Proportion: 61.87%
+Figure Proportion: 1.66%
+Math Proportion: 9.19%
+Math Structure Proportion: 3.04%
+Text Math Proportion: 1.33%
+Math Barree Proportion: 9.97%
+Background Proportion: 12.94%
+Math total Proportion: 23.52%
+Text Proportion Except Background: 71.07%
+Figure Proportion Except Background: 1.91%
+Math Proportion Except Background: 10.55%
+Math Structure Proportion Except Background: 3.49%
+Text Math Proportion Except Background: 1.53%
+Math Barree Proportion Except Background: 11.45%
+Math Total Proportion Except Background: 27.02%
+
+Image: img_LH_35_8_1_4v.jpg
+%Text Proportion: 60.25%
+Figure Proportion: 4.07%
+Math Proportion: 7.83%
+Math Structure Proportion: 0.72%
+Text Math Proportion: 2.81%
+Math Barree Proportion: 4.89%
+Background Proportion: 19.43%
+Math total Proportion: 16.26%
+Text Proportion Except Background: 74.77%
+Figure Proportion Except Background: 5.05%
+Math Proportion Except Background: 9.71%
+Math Structure Proportion Except Background: 0.9%
+Text Math Proportion Except Background: 3.49%
+Math Barree Proportion Except Background: 6.07%
+Math Total Proportion Except Background: 20.17%
+
+Image: img_LH_35_8_1_6v.jpg
+%Text Proportion: 48.65%
+Figure Proportion: 1.52%
+Math Proportion: 6.42%
+Math Structure Proportion: 0.0%
+Text Math Proportion: 2.05%
+Math Barree Proportion: 3.53%
+Background Proportion: 37.83%
+Math total Proportion: 12.0%
+Text Proportion Except Background: 78.25%
+Figure Proportion Except Background: 2.44%
+Math Proportion Except Background: 10.33%
+Math Structure Proportion Except Background: 0.0%
+Text Math Proportion Except Background: 3.3%
+Math Barree Proportion Except Background: 5.68%
+Math Total Proportion Except Background: 19.31%
+

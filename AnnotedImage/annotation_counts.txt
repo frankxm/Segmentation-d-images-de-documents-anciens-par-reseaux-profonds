@@ -1,0 +1,65 @@
+img_LH_35_14_2_20r: text = 2, figure = 1, math = 12, mathstructuree = 0, textemath = 5, mathbarree = 0, math_total =17
+img_LH_35_14_2_20v: text = 2, figure = 2, math = 23, mathstructuree = 0, textemath = 53, mathbarree = 12, math_total =88
+img_LH_35_14_2_21r: text = 1, figure = 5, math = 11, mathstructuree = 0, textemath = 24, mathbarree = 11, math_total =46
+img_LH_35_14_2_21v: text = 1, figure = 0, math = 43, mathstructuree = 0, textemath = 9, mathbarree = 33, math_total =85
+img_LH_35_14_2_22r: text = 1, figure = 2, math = 1, mathstructuree = 0, textemath = 26, mathbarree = 1, math_total =28
+img_LH_35_14_2_22v: text = 1, figure = 5, math = 19, mathstructuree = 0, textemath = 58, mathbarree = 27, math_total =104
+img_LH_35_14_2_23r: text = 2, figure = 6, math = 0, mathstructuree = 0, textemath = 22, mathbarree = 1, math_total =23
+img_LH_35_14_2_23v: text = 1, figure = 3, math = 40, mathstructuree = 0, textemath = 114, mathbarree = 24, math_total =178
+img_LH_35_14_2_66r: text = 2, figure = 1, math = 21, mathstructuree = 3, textemath = 21, mathbarree = 8, math_total =53
+img_LH_35_14_2_67v: text = 3, figure = 1, math = 30, mathstructuree = 6, textemath = 15, mathbarree = 8, math_total =59
+img_LH_35_5_16_1r: text = 2, figure = 0, math = 0, mathstructuree = 0, textemath = 1, mathbarree = 0, math_total =1
+img_LH_35_5_16_1v: text = 4, figure = 3, math = 11, mathstructuree = 2, textemath = 4, mathbarree = 6, math_total =23
+img_LH_35_5_16_2r: text = 1, figure = 3, math = 11, mathstructuree = 0, textemath = 51, mathbarree = 17, math_total =79
+img_LH_35_5_16_2v: text = 1, figure = 0, math = 25, mathstructuree = 1, textemath = 22, mathbarree = 11, math_total =59
+img_LH_35_5_16_3r: text = 1, figure = 3, math = 8, mathstructuree = 1, textemath = 18, mathbarree = 9, math_total =36
+img_LH_35_5_16_3v: text = 1, figure = 2, math = 36, mathstructuree = 3, textemath = 25, mathbarree = 34, math_total =98
+img_LH_35_5_25_1r: text = 3, figure = 3, math = 21, mathstructuree = 0, textemath = 96, mathbarree = 18, math_total =135
+img_LH_35_5_25_1v: text = 4, figure = 0, math = 18, mathstructuree = 0, textemath = 35, mathbarree = 8, math_total =61
+img_LH_35_5_25_2r: text = 2, figure = 0, math = 43, mathstructuree = 1, textemath = 24, mathbarree = 27, math_total =95
+img_LH_35_5_25_2v: text = 2, figure = 0, math = 51, mathstructuree = 0, textemath = 46, mathbarree = 23, math_total =120
+img_LH_35_5_25_3v: text = 3, figure = 0, math = 22, mathstructuree = 0, textemath = 13, mathbarree = 10, math_total =45
+img_LH_35_5_25_4r: text = 1, figure = 0, math = 29, mathstructuree = 0, textemath = 43, mathbarree = 15, math_total =87
+img_LH_35_5_25_4v: text = 1, figure = 0, math = 60, mathstructuree = 0, textemath = 57, mathbarree = 21, math_total =138
+img_LH_35_5_25_8r: text = 2, figure = 4, math = 21, mathstructuree = 0, textemath = 56, mathbarree = 11, math_total =88
+img_LH_35_5_25_9v_d: text = 3, figure = 5, math = 23, mathstructuree = 0, textemath = 70, mathbarree = 13, math_total =106
+img_LH_35_5_25_9v_g: text = 1, figure = 1, math = 24, mathstructuree = 0, textemath = 94, mathbarree = 13, math_total =131
+img_LH_35_5_6_10r: text = 2, figure = 5, math = 10, mathstructuree = 12, textemath = 2, mathbarree = 5, math_total =29
+img_LH_35_5_6_10v: text = 0, figure = 9, math = 15, mathstructuree = 14, textemath = 6, mathbarree = 6, math_total =41
+img_LH_35_5_6_11r: text = 1, figure = 0, math = 1, mathstructuree = 3, textemath = 0, mathbarree = 0, math_total =4
+img_LH_35_5_6_11v: text = 2, figure = 1, math = 59, mathstructuree = 0, textemath = 31, mathbarree = 6, math_total =96
+img_LH_35_5_6_12r: text = 1, figure = 2, math = 76, mathstructuree = 0, textemath = 21, mathbarree = 10, math_total =107
+img_LH_35_5_6_12v: text = 15, figure = 0, math = 17, mathstructuree = 22, textemath = 2, mathbarree = 11, math_total =52
+img_LH_35_5_6_13r: text = 6, figure = 1, math = 2, mathstructuree = 29, textemath = 0, mathbarree = 9, math_total =40
+img_LH_35_5_6_13v: text = 3, figure = 0, math = 56, mathstructuree = 0, textemath = 14, mathbarree = 12, math_total =82
+img_LH_35_5_6_1r: text = 1, figure = 1, math = 1, mathstructuree = 0, textemath = 86, mathbarree = 3, math_total =90
+img_LH_35_5_6_1v: text = 1, figure = 1, math = 13, mathstructuree = 0, textemath = 81, mathbarree = 30, math_total =124
+img_LH_35_5_6_2r: text = 1, figure = 2, math = 26, mathstructuree = 0, textemath = 36, mathbarree = 10, math_total =72
+img_LH_35_5_6_2v: text = 1, figure = 1, math = 5, mathstructuree = 0, textemath = 3, mathbarree = 1, math_total =9
+img_LH_35_5_8_2r: text = 1, figure = 6, math = 33, mathstructuree = 10, textemath = 8, mathbarree = 0, math_total =51
+img_LH_35_5_8_2v: text = 1, figure = 1, math = 20, mathstructuree = 1, textemath = 3, mathbarree = 0, math_total =24
+img_LH_35_5_8_3r: text = 1, figure = 2, math = 44, mathstructuree = 2, textemath = 19, mathbarree = 10, math_total =75
+img_LH_35_5_8_3v: text = 1, figure = 4, math = 18, mathstructuree = 0, textemath = 99, mathbarree = 4, math_total =121
+img_LH_35_5_9_1r: text = 3, figure = 1, math = 36, mathstructuree = 0, textemath = 43, mathbarree = 10, math_total =89
+img_LH_35_5_9_1v: text = 2, figure = 1, math = 29, mathstructuree = 0, textemath = 52, mathbarree = 17, math_total =98
+img_LH_35_5_9_2r: text = 2, figure = 0, math = 73, mathstructuree = 0, textemath = 30, mathbarree = 10, math_total =113
+img_LH_35_5_9_2v: text = 1, figure = 1, math = 24, mathstructuree = 0, textemath = 8, mathbarree = 11, math_total =43
+img_LH_35_7_19_3r: text = 2, figure = 0, math = 0, mathstructuree = 0, textemath = 1, mathbarree = 0, math_total =1
+img_LH_35_7_19_3v: text = 1, figure = 3, math = 0, mathstructuree = 0, textemath = 13, mathbarree = 3, math_total =16
+img_LH_35_7_19_4r: text = 1, figure = 0, math = 12, mathstructuree = 0, textemath = 55, mathbarree = 24, math_total =91
+img_LH_35_7_19_4v: text = 1, figure = 3, math = 39, mathstructuree = 0, textemath = 91, mathbarree = 87, math_total =217
+img_LH_35_7_19_5r: text = 1, figure = 0, math = 34, mathstructuree = 0, textemath = 29, mathbarree = 23, math_total =86
+img_LH_35_7_19_5v: text = 2, figure = 0, math = 14, mathstructuree = 0, textemath = 75, mathbarree = 22, math_total =111
+img_LH_35_7_19_6r: text = 3, figure = 2, math = 16, mathstructuree = 2, textemath = 58, mathbarree = 70, math_total =146
+img_LH_35_7_19_6v: text = 1, figure = 0, math = 1, mathstructuree = 0, textemath = 8, mathbarree = 1, math_total =10
+img_LH_35_8_1_2v: text = 4, figure = 1, math = 21, mathstructuree = 5, textemath = 76, mathbarree = 10, math_total =112
+img_LH_35_8_1_4r: text = 8, figure = 3, math = 50, mathstructuree = 3, textemath = 19, mathbarree = 42, math_total =114
+img_LH_35_8_1_4v: text = 2, figure = 4, math = 52, mathstructuree = 2, textemath = 71, mathbarree = 28, math_total =153
+img_LH_35_8_1_6v: text = 4, figure = 1, math = 33, mathstructuree = 0, textemath = 44, mathbarree = 23, math_total =100
+Total texte annotations in dataset: 124
+Total figure annotations in dataset: 106
+Total math annotations in dataset: 1433
+Total mathstructuree annotations in dataset: 122
+Total textemath annotations in dataset: 2086
+Total mathbarree annotations in dataset: 859
+Total math_all annotations in dataset: 4500

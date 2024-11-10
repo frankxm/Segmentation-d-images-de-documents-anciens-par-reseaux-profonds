@@ -1,0 +1,13 @@
+Average Results of classe proportion in Training Set:
+Training Set: 36 
+images:['img_LH_35_14_2_23v.jpg', 'img_LH_35_5_16_2v.jpg', 'img_LH_35_5_16_3r.jpg', 'img_LH_35_5_25_9v_g.jpg', 'img_LH_35_5_6_10r.jpg', 'img_LH_35_5_6_10v.jpg', 'img_LH_35_5_6_11r.jpg', 'img_LH_35_5_6_11v.jpg', 'img_LH_35_5_6_12r.jpg', 'img_LH_35_5_6_12v.jpg', 'img_LH_35_5_6_13r.jpg', 'img_LH_35_5_6_13v.jpg', 'img_LH_35_5_6_1r.jpg', 'img_LH_35_5_6_1v.jpg', 'img_LH_35_5_6_2r.jpg', 'img_LH_35_5_6_2v.jpg', 'img_LH_35_5_8_2r.jpg', 'img_LH_35_5_8_2v.jpg', 'img_LH_35_5_8_3r.jpg', 'img_LH_35_5_8_3v.jpg', 'img_LH_35_5_9_1r.jpg', 'img_LH_35_5_9_1v.jpg', 'img_LH_35_5_9_2r.jpg', 'img_LH_35_5_9_2v.jpg', 'img_LH_35_7_19_3r.jpg', 'img_LH_35_7_19_3v.jpg', 'img_LH_35_7_19_4r.jpg', 'img_LH_35_7_19_4v.jpg', 'img_LH_35_7_19_5r.jpg', 'img_LH_35_7_19_5v.jpg', 'img_LH_35_7_19_6r.jpg', 'img_LH_35_7_19_6v.jpg', 'img_LH_35_8_1_2v.jpg', 'img_LH_35_8_1_4r.jpg', 'img_LH_35_8_1_4v.jpg', 'img_LH_35_8_1_6v.jpg']
+Training Set Proportions:
+Text Proportion: 46.46%
+Figure Proportion: 3.1%
+Math Proportion: 8.19%
+Math Structure Proportion: 3.87%
+Text Math Proportion: 2.66%
+Math Barree Proportion: 3.91%
+Background Proportion: 31.8%
+Math Total Proportion: 18.63%
+

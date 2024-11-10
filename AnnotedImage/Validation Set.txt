@@ -1,0 +1,13 @@
+Average Results of classe proportion in Validation Set:
+Validation Set: 11 
+images:['img_LH_35_14_2_20r.jpg', 'img_LH_35_5_16_3v.jpg', 'img_LH_35_5_25_1r.jpg', 'img_LH_35_5_25_1v.jpg', 'img_LH_35_5_25_2r.jpg', 'img_LH_35_5_25_2v.jpg', 'img_LH_35_5_25_3v.jpg', 'img_LH_35_5_25_4r.jpg', 'img_LH_35_5_25_4v.jpg', 'img_LH_35_5_25_8r.jpg', 'img_LH_35_5_25_9v_d.jpg']
+Validation Set Proportions:
+Text Proportion: 62.46%
+Figure Proportion: 1.88%
+Math Proportion: 6.8%
+Math Structure Proportion: 0.49%
+Text Math Proportion: 3.1%
+Math Barree Proportion: 4.02%
+Background Proportion: 21.24%
+Math Total Proportion: 14.42%
+
