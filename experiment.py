@@ -302,6 +302,7 @@ def prediction_loaders(
         if set != "test" and not set in steps:
             loaders[set + "_loader"] = {}
             continue
+        # 有问题！！！！ 测试集的标准化参数必须用训练集的！！！
         cropped_list,new_mean,new_std,count_list=apply_crop(images,img_size)
 
         #  训练阶段不用显示转换为tensor是因为有collate_fn（DLACollateFunction）

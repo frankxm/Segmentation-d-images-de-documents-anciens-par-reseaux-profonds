@@ -1,6 +1,28 @@
 # Segmentation d'images de documents anciens par réseaux profonds
 Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
+
+<p align="center">
+  <img src="images_demo/img_LH_35_14_2_20v.jpg" alt="Example Image1" width="50%">
+</p>
+
+
+
+
+## Images d'annotation et segmentée
+
+<p align="center">
+  <img src="images_demo/img_LH_35_14_2_20v_processed.png" alt="Example Image2" width="45%"/>
+  <img src="images_demo/img_LH_35_14_2_20v_combined.jpg" alt="Example Image3" width="45%"/>
+</p>
+
+
+
+##Image artificielle
+![Example Image4](images_demo/synthetic_index14open.png)
+
+
+
 # Structure de dossier
 ##Dossier "OriginalImage":
 - 33 images originales.
@@ -145,6 +167,11 @@ Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 ## Rapport de stage
 Vous pouvez consulter le [rapport de stage ici](https://drive.google.com/file/d/1Yyos3R1O3P42BNH5Mgtp7LMdvXcAaFkp/view?usp=sharing).
 
+## Resultats
+Vous pouvez voir [les resultats de test ici](https://drive.google.com/drive/folders/1ioDa4tyGEb3EsdZM9PzOxEgL4mLQGNFr?usp=sharing).
+
+## Modele
+Vous pouvez obtenir[le modele fine-tuned et modele original ici](https://drive.google.com/drive/folders/1-bWrAtEtV2AXMNg3sQ9HscfmWkDVBU7I?usp=sharing).
 
 
 
