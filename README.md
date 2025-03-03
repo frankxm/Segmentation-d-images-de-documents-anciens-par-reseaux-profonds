@@ -1,7 +1,7 @@
 # Segmentation d'images de documents anciens par réseaux profonds
 Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
-##Introduction
+## Introduction
 Les manuscrits de Leibniz offrent un aperçu essentiel de sa pensée, mais leur transcription manuelle est fastidieuse. Pour automatiser ce processus, nous utilisons un réseau neuronal entièrement convolutif pour détecter et segmenter les expressions mathématiques au niveau des pixels.  
 
 Notre approche repose sur le modèle pré-entraîné Doc-UFCN, initialement conçu pour détecter les lignes de texte dans les manuscrits. Nous l'avons ré-entrainé sur un ensemble de données enrichi d’images artificielles et appliqué diverses techniques d’augmentation. Une fonction de perte d'entropie croisée pondérée, adaptée au contenu, a été proposée pour optimiser l’apprentissage.  
@@ -25,33 +25,33 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 
 
 
-##Image artificielle
+## Image artificielle
 ![Example Image4](images_demo/synthetic_index14open.png)
 
 
 
 # Structure de dossier
-##Dossier "OriginalImage":
+## Dossier "OriginalImage":
 - 33 images originales.
-##Dossier "AnnotedImage":
+## Dossier "AnnotedImage":
 - 58 images coupées en deux et dont la zone d'informations sur l'image blanche a été supprimée.
 - 58 fichiers sous format de json exportés dans l'interface XAnylabeling.
 - Résultats de l'analyse du rapport de pixels pour différentes catégories de chaque sous-ensemble de données. Résultats de l'analyse du rapport de pixels pour différentes catégories dans chaque image. Nombre d'annotations de différentes catégories dans chaque image.
 
-##Dossier "Preprocess":
-###pixelMetricsAnnotation.py: Creation les masques, Division des sous ensemble de données, l'analyse des données, Visualisation des binarisation des donnees.
+## Dossier "Preprocess":
+### pixelMetricsAnnotation.py: Creation les masques, Division des sous ensemble de données, l'analyse des données, Visualisation des binarisation des donnees.
 - readImageMask(image_folder):générer des masques d'annotation précis à partir d'images et de leurs fichiers d'annotation associés. Les masques sortis sont dans le dossier "Preprocess/Labelmap"
 - countannotation(image_folder): compter le nombre d'annotation des images
 - analyze(image_folder,labelmap_folder): analyser la proportion des differentes categories dans toutes les images
 - split_dataset(image_folder,labelmap_folder,data_folder,background_folder): repartir les images aux trois sous ensemble de donnees et creer les images d'arrieres-plan et analyser chaque ensemble de donnees.
 - binarisation_show(images): Presenter differents resultats des images sous deux methodes de binarisation. 
-###tool.py: Decoupage image en deux images, Suppression de zone blanche d'image, Visualisation l'element d'annotation, Visualisation des figures pendant validation, Creation des images d'arrieres-plan.
+### tool.py: Decoupage image en deux images, Suppression de zone blanche d'image, Visualisation l'element d'annotation, Visualisation des figures pendant validation, Creation des images d'arrieres-plan.
 - watch_annotations('../AnnotedImage'): Visualisation element d'expression mathematique dont sa taille est minimum.
 - combine_loss_figure: Visualisation des resultats exportes pendant validation. 
 - get_background('../AnnotedImage', './Background'): Creation les images d'arrieres-plan pour creation des images synthetiques.
 - remove_Bottom_image_folder: Suppression des zones blanches dans le bas d'image
 - split_image_vertically_folder: Decoupage l'image aux deux selon sa moitie de largeur.
-###Changename: Nomination des images apres decoupage
+### Changename: Nomination des images apres decoupage
 
 
 
@@ -59,7 +59,7 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 
 ## Configuration.ini
 1. Configuration des parametres dans le fichier "configuration.ini"
-	###[General] : Paramètres généraux de l'expérience	
+	### [General] : Paramètres généraux de l'expérience	
 	- num_workers : Définit le nombre de threads utilisés pour charger les données.
 	- experiment_name : Nom de l'expérience (exp par exemple).
 	- steps : Décrit l'étape actuelle du processus（'train,prediction,evaluation')
@@ -82,14 +82,14 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 	- 	loss : Type de fonction de perte à utiliser pour l’entraînement (si le modèle d'entraînement est interrompu et doit continuer l'entraînement au point d'interruption, utilisez "best", si le modèle pré-entraîné est utilisé pour affiner (fine-tuning) différentes tâches, utilisez " initial").
 	- 	same_classes : Indique si les classes doivent être considérées comme égales (utilisez "True" si la formation du modèle est interrompue et que la formation doit être poursuivie là où elle s'est arrêtée. Si le modèle pré-entraîné est utilisé pour affiner différentes tâches, le les classes requises pour les tâches sont les mêmes, utilisez "True". Si le modèle pré-entraîné est affiné sur différentes tâches et que les catégories requises pour les tâches sont différentes,utilisez "False").
 	- 	generated_images : Indique si on genere les images synthetiques pendant l'entrainement.
-	###[Paths] : Chemins des dossiers de résultats
+	### [Paths] : Chemins des dossiers de résultats
 	- model_path : Chemin vers le fichier de modèle pré-entraîné à utiliser pour l'entrainement et la prédiction (.pth).
 	- 	prediction_path : Chemin où les prédictions du modèle seront sauvegardées (prediction).
 	- 	evaluation_path : Dossier pour les résultats d'évaluation (evaluation).
 	- 	tb_path : Dossier pour stocker les logs de TensorBoard (events).
 	- 	log_path : Chemin pour stocker les fichiers journaux (logs).
 	- 	bgrdir : Chemin vers le dossier des images d'arrière-plan (background).
-	###[DataPaths] : Chemins vers les données d'entraînement, de validation et de test
+	### [DataPaths] : Chemins vers les données d'entraînement, de validation et de test
 	- train_image : Chemin vers les images d'entraînement.
 	- 	train_mask : Chemin vers les masques de segmentation des images d'entraînement.
 	- 	train_json : Chemin vers les fichiers JSON contenant les annotations des images d'entraînement.
@@ -101,8 +101,8 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 
 
 
-#Exemple:
-###[General] : Paramètres généraux de l'expérience	
+# Exemple:
+### [General] : Paramètres généraux de l'expérience	
 	- num_workers : 0(Facultatif).
 	- experiment_name : exp (Facultatif).
 	- steps : train
@@ -124,14 +124,14 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 	- 	loss : initial(fine-tuning)/ best(resume).
 	- 	same_classes : false
 	- 	generated_images : true
-	###[Paths] : Chemins des dossiers de résultats
+	### [Paths] : Chemins des dossiers de résultats
 	- model_path : /generic-historical-line/modele_meilleur.pth(Facultatif)
 	- 	prediction_path : prediction(Facultatif)
 	- 	evaluation_path : evaluation(Facultatif)
 	- 	tb_path :events(Facultatif)
 	- 	log_path : ./logs(Facultatif)
 	- 	bgrdir : ./background(Facultatif)
-	###[DataPaths] : Chemins vers les données d'entraînement, de validation et de test
+	### [DataPaths] : Chemins vers les données d'entraînement, de validation et de test
 	- train_image :  ./Data/training/train/images
 	- 	train_mask : /Data/training/train/labels
 	- 	train_json : ./Data/training/train/labels_json
@@ -142,23 +142,23 @@ Une fois les images traitées par le modèle, des masques segmentent les express
 	- 	test_json : ./Data/training/test/labels_json
 
 
-####python ./main.py
+#### python ./main.py
 
 
-##Dossier "logs/exp(nom d'experience)/":
+## Dossier "logs/exp(nom d'experience)/":
 - exp.json: Enregistrer les paramètres utilisés dans le fichier configuration.ini
 - generic-historical-line: Stocker le modele meilleur et modele dernier pendant l'entrainement.
 - Images_in_valid: Enregistrer les images exportees dans le premier lot dans l'etape validation.
 - events: Enregistrer le journal d'experience au fichier pour visualiser dans tensorboard.
 - norm_parms: Valeurs pour normalisation dans l'entrainement
 
-##Dossier "logs/exp(nom d'experience)/prediction/test/training/":
+## Dossier "logs/exp(nom d'experience)/prediction/test/training/":
 - Images segmentées et ses masques sorties apres la prédiction.
 - Objets segmentes 
 - Images coupees segmentées et ses masques sorties apres la prédiction.
 
 
-##Dossier "logs/exp(nom d'experience)/evaluation/test/":
+## Dossier "logs/exp(nom d'experience)/evaluation/test/":
 - training_results.jon: Enregistrer les resultats des metriques sur niveau du pixel et niveau d'objet de differentes categories dans l'ensemble de test.
 - confusion_matrix__object_combinedgray: Matrice de confusion au niveau d'objet calculée à partir de pixels gris contenant « Texte, Figure, Math »
 - confusion_matrix__object_gray:Matrice de confusion au niveau d'objet calculée à partir de pixels gris contenant « Texte, Figure, MathStandard,MathStructuree, TexteMath,Mathbarree »
