@@ -1,6 +1,13 @@
 # Segmentation d'images de documents anciens par réseaux profonds
 Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
+##Introduction
+Les manuscrits de Leibniz offrent un aperçu essentiel de sa pensée, mais leur transcription manuelle est fastidieuse. Pour automatiser ce processus, nous utilisons un réseau neuronal entièrement convolutif pour détecter et segmenter les expressions mathématiques au niveau des pixels.  
+
+Notre approche repose sur le modèle pré-entraîné Doc-UFCN, initialement conçu pour détecter les lignes de texte dans les manuscrits. Nous l'avons ré-entrainé sur un ensemble de données enrichi d’images artificielles et appliqué diverses techniques d’augmentation. Une fonction de perte d'entropie croisée pondérée, adaptée au contenu, a été proposée pour optimiser l’apprentissage.  
+
+Une fois les images traitées par le modèle, des masques segmentent les expressions mathématiques. Enfin, nous évaluons la performance à l’aide de métriques au niveau des pixels et des objets.
+
 
 <p align="center">
   <img src="images_demo/img_LH_35_14_2_20v.jpg" alt="Example Image1" width="50%">
@@ -95,7 +102,7 @@ Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
 
 #Exemple:
-	###[General] : Paramètres généraux de l'expérience	
+###[General] : Paramètres généraux de l'expérience	
 	- num_workers : 0(Facultatif).
 	- experiment_name : exp (Facultatif).
 	- steps : train
@@ -135,7 +142,7 @@ Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 	- 	test_json : ./Data/training/test/labels_json
 
 
-##python ./main.py
+####python ./main.py
 
 
 ##Dossier "logs/exp(nom d'experience)/":
@@ -162,10 +169,14 @@ Détecter les Expressions Mathématiques dans les images manuscrites de Leibniz
 
 
 
+## Resultats des indicateurs aux deux niveaux pour le modele meilleur
+<p align="center">
+  <img src="images_demo/Metriques.png" alt="Example Image2" width="100%"/>
+</p>
 
 
 ## Rapport de stage
-Vous pouvez consulter le [rapport de stage ici](https://drive.google.com/file/d/1Yyos3R1O3P42BNH5Mgtp7LMdvXcAaFkp/view?usp=sharing).
+Si vous voulez savoir plus de details, Vous pouvez consulter le [rapport de stage ici](https://drive.google.com/file/d/1Yyos3R1O3P42BNH5Mgtp7LMdvXcAaFkp/view?usp=sharing).
 
 ## Resultats
 Vous pouvez voir [les resultats de test ici](https://drive.google.com/drive/folders/1ioDa4tyGEb3EsdZM9PzOxEgL4mLQGNFr?usp=sharing).
