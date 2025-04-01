@@ -60,7 +60,7 @@ def confusion_matrix(pred: np.ndarray, label: np.ndarray, classes: list) -> np.a
         for j in range(size):
             bin_label = label == i
             bin_pred = pred == j
-            confusion_matrix[j, i] = (bin_pred * bin_label).sum()
+            confusion_matrix[i, j] = (bin_pred * bin_label).sum()
     return confusion_matrix
 
 
@@ -75,10 +75,10 @@ def iou(confusion_matrix: np.ndarray, channel: str) -> float:
     """
     TP = confusion_matrix[channel, channel]
     # 漏检+TP
-    tpfn = np.sum(confusion_matrix[:, channel])
+    tpfn = np.sum(confusion_matrix[channel,:])
     FN=tpfn-TP
     # 误检+TP
-    tpfp = np.sum(confusion_matrix[channel, :])
+    tpfp = np.sum(confusion_matrix[:,channel])
     FP=tpfp-TP
     TN = np.sum(confusion_matrix) - (TP + FP + FN)
     if TP == 0 or tpfn + tpfp == TP:
