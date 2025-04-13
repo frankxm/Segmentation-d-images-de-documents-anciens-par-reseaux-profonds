@@ -80,15 +80,21 @@ def training_loaders(
     t.set_description("Loading data")
     for set, images, masks,jsons in zip(
         t,[exp_data_paths["train"]["image"], exp_data_paths["val"]["image"]],[exp_data_paths["train"]["mask"], exp_data_paths["val"]["mask"]],[exp_data_paths["train"]["json"], exp_data_paths["val"]["json"]]):
-        augment_all, mean_aug, std_aug = apply_augmentations_and_compute_stats(images, masks,jsons,bgrdir,img_size,set,generated_images,start_ratio)
-        norm_params[set]['mean']=mean_aug
-        norm_params[set]['std']=std_aug
+        if set=='train':
+            augment_all, mean_aug, std_aug = apply_augmentations_and_compute_stats(images, masks,jsons,bgrdir,img_size,set,generated_images,start_ratio)
+            norm_params[set]['mean']=mean_aug
+            norm_params[set]['std']=std_aug
+        elif set=='val':
+            augment_all= apply_augmentations_and_compute_stats(images, masks, jsons, bgrdir,
+                                                                                   img_size, set, generated_images,
+                                                                                   start_ratio)
+
 
         dataset = TrainingDataset(
             augment_all,
             classes_colors,
             transform=transforms.Compose([
-                Normalize(mean_aug.tolist(), std_aug.tolist())
+                Normalize(mean_aug.tolist() if set == 'train' else norm_params['train']['mean'].tolist(),std_aug.tolist() if set == 'tain' else norm_params['train']['std'].tolist())
             ]),
             augmentations_transformation=[random_perspective_transform, random_elastic_transform, random_rotate, random_flip ,random_ouverture] if set=='train' else None,
             augmentations_pixel=[random_color_jitter,random_gaussian_blur,random_gaussian_noise,random_sharpen,random_contrast] if set=='train' else None
@@ -276,41 +282,33 @@ def apply_crop(images_dir,output_size):
                                                                       (output_size, output_size), i)
         cropped_list.extend(cropped_samples)
         count_list.append(count)
-    all_images = [sample["image"] for sample in cropped_list]
-    mean, std = compute_mean_std(all_images, batch_size=10)  # 使用分批次计算均值和标准差
-    means.append(mean)
-    stds.append(std)
-    mean_final = np.mean(means, axis=0)
-    std_final = np.mean(stds, axis=0)
+    # all_images = [sample["image"] for sample in cropped_list]
+    # mean, std = compute_mean_std(all_images, batch_size=10)  # 使用分批次计算均值和标准差
+    # means.append(mean)
+    # stds.append(std)
+    # mean_final = np.mean(means, axis=0)
+    # std_final = np.mean(stds, axis=0)
     # all_images =[sample["image"] for sample in cropped_list]
     # mean=np.mean(all_images, axis=(0, 1, 2))
     # std=np.std(all_images, axis=(0, 1, 2))
-    return cropped_list,np.uint8(mean_final), np.uint8(std_final),count_list
+    # return cropped_list,np.uint8(mean_final), np.uint8(std_final),count_list
+    return cropped_list, count_list
 
 def prediction_loaders(
-         exp_data_paths: dict, img_size: int, num_workers: int, steps
+         exp_data_paths: dict, img_size: int, num_workers: int, steps,mean,std
 ) -> dict:
     loaders = {}
-    for set, images in zip(
-            ["train", "val", "test"],
-            [
-                exp_data_paths["train"]["image"],
-                exp_data_paths["val"]["image"],
-                exp_data_paths["test"]["image"],
-            ],
-    ):
-        if set != "test" and not set in steps:
-            loaders[set + "_loader"] = {}
-            continue
-        # 有问题！！！！ 测试集的标准化参数必须用训练集的！！！
-        cropped_list,new_mean,new_std,count_list=apply_crop(images,img_size)
+    for set, images in zip(["test"], [exp_data_paths["test"]["image"] ]):
+
+        # 有问题！！！！ 测试集的标准化参数必须用训练集的！！！ 已改
+        cropped_list,count_list=apply_crop(images,img_size)
 
         #  训练阶段不用显示转换为tensor是因为有collate_fn（DLACollateFunction）
         dataset = PredictionDataset(
             cropped_list,
             transform=transforms.Compose(
                 [
-                    Normalize(new_mean.tolist(),new_std.tolist()),
+                    Normalize(mean.tolist(), std.tolist()),
                     ToTensor(),
                 ]
             ),
@@ -407,12 +405,13 @@ def run_experiment(config: dict, num_workers: int ):
 
         )
 
-        savepath = str(config['log_path'] / config["norm_params"])+'.txt'
+
+        savepath = os.path.join(config['log_path'], 'norm_params.txt')
         with open(savepath, "w") as file:
-            for key,value in norm_params.items():
+            for key, value in norm_params.items():
                 file.write(f"set:{key}:" + "\n")
-                for k,v in value.items():
-                    file.write(f"{k}:"+str(v) + "\n")
+                for k, v in value.items():
+                    file.write(f"{k}:" + str(v) + "\n")
 
         tr_params = training_initialization(
             config["model_path"],
@@ -438,10 +437,11 @@ def run_experiment(config: dict, num_workers: int ):
 
 
     if "prediction" in config["steps"]:
+        mean, std = load_mean_std(config["norm_params"])
         img_dir = getimg(config["data_paths"]['test']['image'])
 
         loaders,count_list,cropped_list = prediction_loaders(
-            config["data_paths"], config["img_size"],num_workers,config["steps"]
+            config["data_paths"], config["img_size"],num_workers,config["steps"],mean,std
         )
         net = prediction_initialization(
             str(config["model_path"]), config["classes_names"], config["log_path"]
@@ -491,3 +491,20 @@ def getimg(path):
         img_rgb=cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
         imgdir[p]=img_rgb
     return imgdir
+
+def load_mean_std(file_path):
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
+
+    mean_line = next(line for line in lines if line.startswith('mean:'))
+    std_line = next(line for line in lines if line.startswith('std:'))
+
+    # 提取方括号内的内容
+    mean_str = mean_line.split('[')[1].split(']')[0]
+    std_str = std_line.split('[')[1].split(']')[0]
+
+    # 转换成 numpy 数组
+    mean = np.fromstring(mean_str, sep=' ')
+    std = np.fromstring(std_str, sep=' ')
+
+    return mean, std

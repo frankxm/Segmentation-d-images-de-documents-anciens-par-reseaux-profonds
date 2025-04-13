@@ -103,4 +103,4 @@ def iou(confusion_matrix: np.ndarray, channel: str) -> float:
         f1=0
     else:
         f1 = 2 * TP / (2 * TP + FP + FN)
-    return iou,recall,pre,acc,f1
+    return iou,recall,pre,f1

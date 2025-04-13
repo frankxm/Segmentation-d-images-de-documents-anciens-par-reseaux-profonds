@@ -218,11 +218,10 @@ def get_epoch_values(metrics: dict, classes: list, batch: int) -> dict:
     total_tp=0
     total_samples=0
     for channel in classes[0:-1]:
-        iou, recall, precision, acc, f1 = p_metrics.iou(metrics["matrix"], classes.index(channel))
+        iou, recall, precision, f1 = p_metrics.iou(metrics["matrix"], classes.index(channel))
         values["iou_" + channel] = round(iou, 6)
         values["recall_" + channel] = round(recall, 4)
         values["precision_" + channel] = round(precision, 4)
-        values["acc_" + channel] = round(acc, 4)
         values["f1_" + channel] = round(f1, 4)
 
         # 累计总的TP和所有样本数

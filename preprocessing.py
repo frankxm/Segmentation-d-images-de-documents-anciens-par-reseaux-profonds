@@ -808,15 +808,12 @@ def apply_augmentations_and_compute_stats(imagedir, maskdir, jsondir, bgrdir, ou
             shift_samples_down = shift_crop(image, label, (output_size, output_size), (0, int(output_size / 2)), i)
             augment_all.extend(standard_samples + shift_samples_right + shift_samples_down)
             # 计算每个批次的均值和标准差
-            all_images = [data["image"] for data in (standard_samples + shift_samples_right + shift_samples_down)]
-            mean, std = compute_mean_std(all_images, batch_size=100)  # 使用分批次计算均值和标准差
-            means.append(mean)
-            stds.append(std)
+            # all_images = [data["image"] for data in (standard_samples + shift_samples_right + shift_samples_down)]
+            # mean, std = compute_mean_std(all_images, batch_size=100)  # 使用分批次计算均值和标准差
+            # means.append(mean)
+            # stds.append(std)
 
-        mean_final = np.mean(means, axis=0)
-        std_final = np.mean(stds, axis=0)
-        logging.info(" Mean in {}: {}".format(set, np.uint8(mean_final)))
-        logging.info(" Std in {}: {}".format(set, np.uint8(std_final)))
+        return augment_all
     # 对训练集采用多种增强手段  标准裁剪+随机增强+合成图像
     else:
         for i, name in enumerate(tqdm(imagenamelist, desc="Augmente Images originales")):
@@ -863,7 +860,7 @@ def apply_augmentations_and_compute_stats(imagedir, maskdir, jsondir, bgrdir, ou
         logging.info(" Mean after augmentation in {}: {}".format(set, np.uint8(mean_final)))
         logging.info(" Std after augmentation in {}: {}".format(set, np.uint8(std_final)))
 
-    return augment_all, np.uint8(mean_final), np.uint8(std_final)
+        return augment_all, np.uint8(mean_final), np.uint8(std_final)
 
 
 
